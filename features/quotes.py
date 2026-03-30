@@ -1,4 +1,3 @@
-# features/quotes.py
 import json
 import random
 import asyncio
