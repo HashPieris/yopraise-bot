@@ -1,5 +1,3 @@
-# features/devotional.py
-import json
 import asyncio
 import random
 from typing import Optional
