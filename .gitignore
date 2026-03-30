@@ -1,0 +1,14 @@
+notepad .gitignore
+```
+
+Isi dengan ini:
+```
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+downloads/
+*.mp3
+*.tmp
