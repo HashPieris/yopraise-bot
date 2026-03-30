@@ -9,9 +9,9 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 # API Keys
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-WEATHER_API_KEY = os.getenv("WEATHER_API_KEY)
+WEATHER_API_KEY = os.getenv("WEATHER_API_KEY")
 NEWS_API_KEY = os.getenv("NEWS_API_KEY")
-GROQ_API_KEY=os.getenv("GROQ_API_KEY"")
+GROQ_API_KEY=os.getenv("GROQ_API_KEY")
 
 # Rate Limiting Configuration
 RATE_LIMIT_PER_MINUTE = 30
